@@ -34,6 +34,9 @@ In this project I learn about Django, Ajax and how to short a URL.
 </ul>
 
 
+# Improvements
+
+* Revisar porqué la instancia Url no está jalando en el navegador, pero cuando reviso dentro del network está preente el link que trataba de solicitar. ¿Se debe a presearch?
 
 
 
