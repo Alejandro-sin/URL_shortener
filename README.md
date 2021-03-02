@@ -23,8 +23,7 @@
 
 # INTRODUCTION.
 
-In this project I learn about ...  and how integrate ...
-Im base on... 
+In this project I learn about Django, Ajax and how to short a URL.
 
 ## **Index** :
 
